@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactMessenger",
+    "slug": "reactMessenger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactMessenger"
+}
